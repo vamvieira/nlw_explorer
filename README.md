@@ -6,8 +6,7 @@
 
 Projeto construído durante o evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessasr]
-(https://vamvieira.github.io/nlw_explorer/)
+[Clique aqui para acessar](https://vamvieira.github.io/nlw_explorer/)
 
 
 ## Tecnologias
